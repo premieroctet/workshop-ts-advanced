@@ -9,7 +9,7 @@ Avant de commencer cet exercice, assurez-vous d'avoir installé et lancé le pro
 yarn install
 
 # Lancer le projet
-yarn start
+yarn dev
 ```
 
 Le projet sera accessible sur `http://localhost:3000`.
